@@ -2,6 +2,12 @@
 🍪 cookiecutter-profile-dashboard
 </h1>
 
+<p align="center">
+  <a href="https://github.com/benjcunningham/cookiecutter-profile-dashboard/actions/workflows/tests.yaml">
+    <img alt="tests" src="https://github.com/benjcunningham/cookiecutter-profile-dashboard/actions/workflows/tests.yaml/badge.svg">
+  </a>
+</p>
+
 This is a [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template
 for transforming your [GitHub profile
 README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
